@@ -1,0 +1,10 @@
+/.vs
+/.idea
+*.pdb
+**/Intermediate/
+/Saved
+/DerivedDataCache
+/MH.sln
+/test.wav
+/capture.wav
+/Protobuf/TestServerBuild
