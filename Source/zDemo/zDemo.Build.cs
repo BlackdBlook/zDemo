@@ -15,6 +15,7 @@ public class zDemo : ModuleRules
 			"ZLog",
 			"DeveloperSettings",
 			"CustomSettingBaseModule",
+			"MicRecorder"
 		});
 
 		// Uncomment if you are using Slate UI
